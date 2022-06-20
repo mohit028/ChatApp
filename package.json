@@ -1,0 +1,22 @@
+{
+  "name": "whassupp",
+  "version": "1.0.0",
+  "description": "Real Time chat app",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server"
+  },
+  "keywords": [
+    "chat",
+    "app"
+  ],
+  "author": "Mohit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.0",
+    "socket.io": "^4.5.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
